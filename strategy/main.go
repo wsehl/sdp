@@ -15,7 +15,7 @@ func main() {
 	    "name": "The Summoning",
 	    "duration_ms": 395000,
 	    "artists": [{
-	        "name": "Gojira"
+	        "name": "Sleep Token"
 	    }]
 	}`)
 
